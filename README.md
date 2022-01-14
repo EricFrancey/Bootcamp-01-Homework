@@ -19,9 +19,9 @@ Changes included in this file:
 https://ericfrancey.github.io/Bootcamp-01-Homework/
 
 ## Screenshot
-  ```md
+  
     ![alt text](assets/images/ProjScreen.png)
-    ```
+
   
 ## Credits
 All credits to Sal and the gang!
