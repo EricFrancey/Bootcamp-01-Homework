@@ -19,8 +19,7 @@ Changes included in this file:
 https://ericfrancey.github.io/Bootcamp-01-Homework/
 
 ## Screenshot
-  
-    ![alt text](assets/images/ProjScreen.png)
+  ![Alt text](assets/images/ProjScreen.png?raw=true "Screenshot")
 
   
 ## Credits
