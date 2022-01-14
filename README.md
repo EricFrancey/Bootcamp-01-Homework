@@ -6,7 +6,7 @@ This is a homework project for University of Toronto: School of Continuing Studi
 
 Changes included in this file:
   - Moved stylesheet under the <title> tag
-  - Changed .header and .footer to <header> and <footer>
+  - Changed .header and .footer to to default tags
   - Added other appropriate tags
   - Restructured index.html and style.css
   - Added alt attributes to images
